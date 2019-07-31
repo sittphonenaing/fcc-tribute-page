@@ -1,0 +1,22 @@
+body{
+    font-family: 'Lato', sans-serif;
+    
+    }
+.img-fluid{
+    width: 100%;
+}   
+h1,h3,h4{
+    color: white;
+}
+.progress-bar{
+    color:#20293E;
+    font-weight: bold;
+    font-size:18px;
+}
+.container h3{
+    color: black;
+}
+
+.margin-bot{
+    margin-bottom: 50px;
+}
